@@ -1,5 +1,5 @@
 function Home(){
-   return <div>Home55</div>
+   return <div>CLASH DA RAPAZIADA</div>
 }
 
 export default Home;
